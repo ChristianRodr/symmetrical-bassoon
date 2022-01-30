@@ -59,4 +59,4 @@ getAll.onsuccess = function() {
   }
 };
 
-window.addEventListener('online', uploadTransactions);
+window.addEventListener('online', uploadTransactions );
